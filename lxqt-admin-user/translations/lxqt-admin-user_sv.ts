@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<TS version="2.1" language="sv">
 <context>
     <name>GroupDialog</name>
     <message>
         <location filename="../groupdialog.ui" line="14"/>
         <source>Group Settings</source>
-        <translation>Configurações de grupo</translation>
+        <translation>Grupp inställningar</translation>
     </message>
     <message>
         <location filename="../groupdialog.ui" line="20"/>
         <source>Group name:</source>
-        <translation>Nome do grupo:</translation>
+        <translation>Gruppnamn:</translation>
     </message>
     <message>
         <location filename="../groupdialog.ui" line="30"/>
         <source>Default</source>
-        <translation>Padrão</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../groupdialog.ui" line="40"/>
         <source>Group ID:</source>
-        <translation>ID do grupo:</translation>
+        <translation>Grupp-ID:</translation>
     </message>
     <message>
         <location filename="../groupdialog.ui" line="47"/>
         <source>Users belong to this group:</source>
-        <translation>Usuários pertencentes a este grupo:</translation>
+        <translation>Användare tillhör denna grupp:</translation>
     </message>
     <message>
         <location filename="../groupdialog.cpp" line="64"/>
         <source>Error</source>
-        <translation>Erro</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <location filename="../groupdialog.cpp" line="64"/>
         <source>The group name cannot be empty.</source>
-        <translation>O nome do grupo não pode estar vazio.</translation>
+        <translation>Gruppnamnet kan inte vara tomt.</translation>
     </message>
 </context>
 <context>
@@ -44,140 +44,140 @@
     <message>
         <location filename="../mainwindow.ui" line="14"/>
         <source>User and Group Settings</source>
-        <translation>Configurações de Grupo e Usuário</translation>
+        <translation>Användar och gruppinställningar</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="40"/>
         <source>&amp;Users</source>
-        <translation>&amp;Usuários</translation>
+        <translation>&amp;Användare</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="59"/>
         <source>Login Name</source>
-        <translation>Nome de Usuário</translation>
+        <translation>Inloggningsnamn</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="64"/>
         <source>User ID</source>
-        <translation>ID de Usuário</translation>
+        <translation>Användar-ID</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="69"/>
         <source>Full Name</source>
-        <translation>Nome Completo</translation>
+        <translation>Fullständigt namn</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="74"/>
         <source>Group</source>
-        <translation>Grupo</translation>
+        <translation>Grupp</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="79"/>
         <source>Home Directory</source>
-        <translation>Diretório Pessoal</translation>
+        <translation>Hemkatalog</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="87"/>
         <source>Show system users (for advanced users only)</source>
-        <translation>Mostrar Usuários do sistema (apenas para usuários avançados)</translation>
+        <translation>Visa systemanvändare (endast för avancerade användare)</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="95"/>
         <source>&amp;Groups</source>
-        <translation>&amp;Grupos</translation>
+        <translation>&amp;Grupper</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="111"/>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="116"/>
         <source>Group ID</source>
-        <translation>ID do grupo</translation>
+        <translation>Grupp-ID</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="121"/>
         <source>Members</source>
-        <translation>Membros</translation>
+        <translation>Medlemmar</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="188"/>
         <source>Edit properties of the selected item</source>
-        <translation>Editar propriedades do item selecionado</translation>
+        <translation>Redigera egenskaper för det valda objektet</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="161"/>
         <source>Add</source>
-        <translation>Adicionar</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="164"/>
         <source>Add new users or groups</source>
-        <translation>Adicionar novos usuários ou grupos</translation>
+        <translation>Lägg till nya användare eller grupper</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="173"/>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="176"/>
         <source>Delete selected item</source>
-        <translation>Excluir item selecionado</translation>
+        <translation>Ta bort valda objekt</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="185"/>
         <source>Properties</source>
-        <translation>Propriedades</translation>
+        <translation>Egenskaper</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="197"/>
         <source>Refresh</source>
-        <translation>Atualizar</translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="200"/>
         <source>Refresh the lists</source>
-        <translation>Atualizar as listas</translation>
+        <translation>Uppdatera listorna</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="209"/>
         <location filename="../mainwindow.cpp" line="209"/>
         <source>Change Password</source>
-        <translation>Alterar Senha</translation>
+        <translation>Ändra lösenord</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="212"/>
         <source>Change password for the selected user or group</source>
-        <translation>Alterar a senha do usuário ou grupo selecionado</translation>
+        <translation>Ändra lösenord för den valda användaren eller gruppen</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="184"/>
         <location filename="../mainwindow.cpp" line="199"/>
         <location filename="../mainwindow.cpp" line="221"/>
         <source>Confirm</source>
-        <translation>Confirmar</translation>
+        <translation>Bekräfta</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="184"/>
         <source>Are you sure you want to delete the selected user?</source>
-        <translation>Tem certeza de que deseja excluir o usuário selecionado?</translation>
+        <translation>Är du säker på att du vill ta bort den valda användaren?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="199"/>
         <source>Are you sure you want to delete the selected group?</source>
-        <translation>Tem certeza de que deseja excluir o grupo selecionado?</translation>
+        <translation>Är du säker på att du vill ta bort den valda gruppen?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="211"/>
         <source>Input the new password for %1:</source>
-        <translation>Digite a nova senha para %1:</translation>
+        <translation>Ange det nya lösenordet för %1:</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="221"/>
         <source>Are you sure you want to set a empty password?</source>
-        <translation>Tem certeza de que não deseja definir uma senha?</translation>
+        <translation>Är du säker på att du vill ange ett tomt lösenord?</translation>
     </message>
 </context>
 <context>
@@ -185,72 +185,72 @@
     <message>
         <location filename="../userdialog.ui" line="14"/>
         <source>User Settings</source>
-        <translation>Configurações do Usuário</translation>
+        <translation>Användarinställningar</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="24"/>
         <source>General</source>
-        <translation>Geral</translation>
+        <translation>Allmäna</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="43"/>
         <source>Full name:</source>
-        <translation>Nome completo:</translation>
+        <translation>Fullständigt namn:</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="33"/>
         <source>Login name:</source>
-        <translation>Nome do usuário:</translation>
+        <translation>Inloggningsnamn:</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="53"/>
         <source>User ID:</source>
-        <translation>ID do usuário:</translation>
+        <translation>Användar-ID:</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="60"/>
         <source>Default</source>
-        <translation>Padrão</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="70"/>
         <source>Main group:</source>
-        <translation>Grupo principal:</translation>
+        <translation>Huvudgrupp:</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="85"/>
         <source>Groups</source>
-        <translation>Grupos</translation>
+        <translation>Grupper</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="91"/>
         <source>The user belongs to the following groups:</source>
-        <translation>O usuário pertence aos seguintes grupos:</translation>
+        <translation>Användaren tillhör följande grupper:</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="109"/>
         <source>Advanced</source>
-        <translation>Avançado</translation>
+        <translation>Avancerat</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="115"/>
         <source>Login shell:</source>
-        <translation>Console de usuário:</translation>
+        <translation>Inloggningsskal:</translation>
     </message>
     <message>
         <location filename="../userdialog.ui" line="132"/>
         <source>Home directory:</source>
-        <translation>Diretório principal:</translation>
+        <translation>Hemkatalog:</translation>
     </message>
     <message>
         <location filename="../userdialog.cpp" line="120"/>
         <source>Error</source>
-        <translation>Erro</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <location filename="../userdialog.cpp" line="120"/>
         <source>The user name cannot be empty.</source>
-        <translation>O nome do usuário não pode ser vazio.</translation>
+        <translation>Användarnamnet kan inte vara tomt.</translation>
     </message>
 </context>
 <context>
@@ -258,7 +258,7 @@
     <message>
         <location filename="../usermanager.cpp" line="229"/>
         <source>&lt;strong&gt;Action (%1) failed:&lt;/strong&gt;&lt;br/&gt;&lt;pre&gt;%2&lt;/pre&gt;</source>
-        <translation>&lt;strong&gt;A ação (%1) falhou:&lt;/strong&gt;&lt;br/&gt;&lt;pre&gt;%2&lt;/pre&gt;</translation>
+        <translation>&lt;strong&gt;Åtgärd (%1) misslyckades:&lt;/strong&gt;&lt;br/&gt;&lt;pre&gt;%2&lt;/pre&gt;</translation>
     </message>
 </context>
 </TS>

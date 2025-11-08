@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="et">
+<TS version="2.1" language="eu">
 <context>
     <name>DateTime</name>
     <message>
         <location filename="../datetime.ui" line="23"/>
         <source>Time:</source>
-        <translation>Aeg:</translation>
+        <translation>Ordua:</translation>
     </message>
     <message>
         <location filename="../datetime.ui" line="39"/>
@@ -16,17 +16,17 @@
     <message>
         <location filename="../datetime.ui" line="53"/>
         <source>Date:</source>
-        <translation>Kuupäev:</translation>
+        <translation>Data:</translation>
     </message>
     <message>
         <location filename="../datetime.ui" line="70"/>
         <source>Enable network time synchronization (NTP)</source>
-        <translation>Kasuta NTP-põhist aja sünkroniseerimist võrgust</translation>
+        <translation>Gaitu sareko denbora sinkronizazioa (NTP)</translation>
     </message>
     <message>
         <location filename="../datetime.ui" line="77"/>
         <source>RTC is in local time</source>
-        <translation>Süsteemi sisemine reaalaja kell on kohalikus ajavööndis</translation>
+        <translation>RTC ordu lokalean dago</translation>
     </message>
 </context>
 <context>
@@ -34,13 +34,13 @@
     <message>
         <location filename="../nosdtimedatectl.cpp" line="146"/>
         <source>lxqt-admin-time-helper</source>
-        <translation>lxqt-admin-time-helper</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../fbsdtimedatectl.cpp" line="125"/>
         <location filename="../nosdtimedatectl.cpp" line="147"/>
         <source>&lt;strong&gt;Action (%1) failed:&lt;/strong&gt;&lt;br/&gt;&lt;pre&gt;%2&lt;/pre&gt;</source>
-        <translation>&lt;strong&gt;Toiming (%1) ei õnnestunud:&lt;/strong&gt;&lt;br/&gt;&lt;pre&gt;%2&lt;/pre&gt;</translation>
+        <translation>&lt;strong&gt;Ekintzak (%1) huts egin du:&lt;/strong&gt;&lt;br/&gt;&lt;pre&gt;%2&lt;/pre&gt;</translation>
     </message>
 </context>
 <context>
@@ -48,17 +48,17 @@
     <message>
         <location filename="../timeadmindialog.cpp" line="46"/>
         <source>Time and date configuration</source>
-        <translation>Kellaaja ja kuupäeva seadistused</translation>
+        <translation>Ordu eta data konfigurazioa</translation>
     </message>
     <message>
         <location filename="../timeadmindialog.cpp" line="52"/>
         <source>Date and time</source>
-        <translation>Kuupäev ja kellaaeg</translation>
+        <translation>Data eta ordua</translation>
     </message>
     <message>
         <location filename="../timeadmindialog.cpp" line="60"/>
         <source>Timezone</source>
-        <translation>Ajavöönd</translation>
+        <translation>Ordu-zona</translation>
     </message>
     <message>
         <location filename="../timeadmindialog.cpp" line="123"/>
@@ -66,22 +66,22 @@
         <location filename="../timeadmindialog.cpp" line="140"/>
         <location filename="../timeadmindialog.cpp" line="150"/>
         <source>Error</source>
-        <translation>Viga</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <location filename="../timeadmindialog.cpp" line="159"/>
         <source>Change RTC to be in localtime requires a reboot</source>
-        <translation>Süsteemi sisemise reaalaja kella seadmine kohalikku ajavööndisse eeldab taaskäivitust</translation>
+        <translation>RTC ordu lokalean jartzeko aldaketak berrabiarazi behar da</translation>
     </message>
     <message>
         <location filename="../timeadmindialog.cpp" line="160"/>
         <source>Change RTC to be in UTC requires a reboot</source>
-        <translation>Süsteemi sisemise reaalaja kella seadmine UTC/GMT ajavööndisse eeldab taaskäivitust</translation>
+        <translation>RTC UTC-n egoteko aldaketak berrabiarazi behar da</translation>
     </message>
     <message>
         <location filename="../timeadmindialog.cpp" line="161"/>
         <source>Reboot required</source>
-        <translation>Taaskäivitus on vajalik</translation>
+        <translation>Berrabiarazi behar da</translation>
     </message>
 </context>
 <context>
@@ -89,12 +89,12 @@
     <message>
         <location filename="../timezone.ui" line="19"/>
         <source>Your current timezone:</source>
-        <translation>Sinu praegune ajavöönd:</translation>
+        <translation>Zure uneko ordu-zona:</translation>
     </message>
     <message>
         <location filename="../timezone.ui" line="32"/>
         <source>Filter</source>
-        <translation>Otsi</translation>
+        <translation>Filtroa</translation>
     </message>
 </context>
 <context>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../timezone.cpp" line="42"/>
         <source>None</source>
-        <translation>Puudub</translation>
+        <translation>Bat ere ez</translation>
     </message>
 </context>
 </TS>
